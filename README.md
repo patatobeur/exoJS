@@ -1,9 +1,10 @@
-#REVISION JS:
-Reprenez le cours JS d'OpenClass et normalement le premier exo(coir app.js) ne devrait pas trop vous poser de probleme :
-https://github.com/Simplon-Narbonne/exoJS  
-
 #Conditions :
-- Fork ce repositorie et travailler sur ce fork en pushant vos solutions directement dessus votre fork, ne clonez ou ne téléchargez pas car il ne sera pas possible de pushé sur le dépot de Simplon Narbonne, vous n'avez pas les droits  
+- Forkez ce repositorie et travaillez sur ce fork en pushant vos solutions directement dessus votre fork, ne clonez ou ne téléchargez pas car il ne sera pas possible de pushé directement sur le dépot de Simplon Narbonne, vous n'avez pas les droits, sur votre fork oui  
+
+#REVISION JS:
+Reprenez le cours JS d'OpenClass et normalement le premier exo ne devrait pas trop vous poser de probleme :  
+Voir les commentaires dans le fichier app.js  
+https://github.com/Simplon-Narbonne/exoJS  
 
 #NOUVEAUX COURS :
 - Les requetes HTTP:  
