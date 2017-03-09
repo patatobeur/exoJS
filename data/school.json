@@ -1,0 +1,22 @@
+{"school":
+  [
+    {
+      "name": "Simplon ERN Narbonne",
+      "items": [
+        {"id": "1", "firstName": "XXXXX"},
+        {"id": "2", "firstName": "XXXXX"},
+        {"id": "3", "firstName": "XXXXX"},
+        {"id": "4", "firstName": "XXXXX"}
+      ]
+    },
+    {
+      "name": "Simplon ERN Narbonne",
+      "items": [
+        {"id": "1", "firstName": "XXXXX"},
+        {"id": "2", "firstName": "XXXXX"},
+        {"id": "3", "firstName": "XXXXX"},
+        {"id": "4", "firstName": "XXXXX"}
+      ]
+    }
+  ]
+}
